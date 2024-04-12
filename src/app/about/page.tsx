@@ -15,7 +15,9 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="We're Dunamis Solar.Energy - the go-to solar permitting company for installers all across the
+USA. Our mission? To make solar installation smoother, easier, and faster for everyone
+involved."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
